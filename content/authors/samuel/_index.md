@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Shenghui (Samuel) Gu
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Shenghui
+last_name: Gu
 
 # Status emoji
 status:
@@ -14,21 +14,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University
+    url: https://softeng.nju.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AIOps, software log analytics, DevOps, and empirical software engineering.
 
 # Interests to show in About widget
 interests:
+  - AIOps
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Log Analytics
+  - DevOps
 
 # Education to show in About widget
 education:
@@ -69,9 +70,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
