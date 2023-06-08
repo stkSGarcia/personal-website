@@ -55,7 +55,7 @@ sections:
           location: Shanghai, China
           date_start: "2022-07-11"
           date_end: "2023-06-05"
-          description: |-
+          description: |2-
             * Led a three-person team to develop a log data valuation system utilizing deep learning and explainable artificial intelligence technologies.
             * Validated the prototype on open-source datasets, providing the foundation for the team to save costs on log data storage and analysis.
             * Acquired knowledge in machine learning, deep learning, and explainable artificial intelligence.
@@ -67,7 +67,7 @@ sections:
           location: Shanghai, China
           date_start: "2021-07-05"
           date_end: "2021-12-10"
-          description: |-
+          description: |2-
             * Led a three-person team to develop an anomaly root cause analysis system utilizing multiple monitoring data sources and deployed the system in a production environment.
             * Built anomaly root cause analysis capabilities from scratch for the team at the company.
             * Technical Skills: Java, TypeScript, HTML/CSS, Linux tools, Git.
@@ -78,7 +78,7 @@ sections:
           location: Shanghai, China
           date_start: "2018-01-11"
           date_end: "2019-07-12"
-          description: |-
+          description: |2-
             * Developed an AIOps platform including log analysis, JStack analysis, and operational knowledge base.
             * Provided support for adding, deleting, and modifying columns in database tables for a distributed columnar database.
             * Acquired knowledge of big data technologies, including distributed architecture and database principles.
@@ -90,7 +90,7 @@ sections:
           location: Shanghai, China
           date_start: "2017-06-01"
           date_end: "2017-09-01"
-          description: |-
+          description: |2-
             * Maintained a continuous integration platform.
             * Acquired knowledge in DevOps, continuous integration/deployment.
     design:
@@ -126,9 +126,6 @@ sections:
         - name: Git
           icon: git-alt
           icon_pack: fab
-        - name: Git
-          icon: git-alt
-          icon_pack: fab
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -142,14 +139,14 @@ sections:
       email: shenghui.gu@smail.nju.edu.cn
       # phone: 888 888 88 88
       # appointment_url: "https://calendly.com"
-      # address:
-      #   street: 450 Serra Mall
-      #   city: Stanford
-      #   region: CA
-      #   postcode: "94305"
-      #   country: United States
-      #   country_code: US
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      address:
+        street: 50 Hankou Road
+        city: Nanjing
+        region: Jiangsu
+        postcode: "210093"
+        country: China
+        country_code: CN
+      directions: Feiyimin Building 6F
       office_hours:
         - "Workday 10:00 to 17:00"
       # contact_links:
