@@ -86,7 +86,7 @@ sections:
         - title: DevOps Engineer Intern
           company: Shanghai Kaian Technology Co., Ltd.
           company_url: "https://www.madailicai.com"
-          company_logo: ""
+          company_logo: madailicai
           location: Shanghai, China
           date_start: "2017-06"
           date_end: "2017-09"
