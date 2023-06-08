@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'gu2023trinityrcl.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
