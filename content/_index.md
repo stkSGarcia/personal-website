@@ -9,7 +9,7 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: samuel
+      username: Samuel
   - block: collection
     id: posts
     content:

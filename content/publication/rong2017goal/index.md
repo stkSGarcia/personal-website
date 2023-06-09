@@ -51,7 +51,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "rong2017goal_presentation.pptx"
 url_source: ""
 url_video: ""
 

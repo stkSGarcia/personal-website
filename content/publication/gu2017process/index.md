@@ -50,7 +50,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "gu2017process_presentation.pptx"
 url_source: ""
 url_video: ""
 
