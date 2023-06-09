@@ -1,14 +1,17 @@
-+++
-title = "How to choose an open source license?"
-author = "Samuel Garcia"
-date = 2017-09-27T13:45:00+08:00
-lastmod = 2021-08-24T23:12:33+08:00
-tags = ["license", "open-source"]
-+++
+---
+title: How to choose an open source license?
+authors:
+  - Shenghui Gu
+date: "2017-09-27T13:45:00+08:00"
+lastmod: "2021-08-24T23:12:33+08:00"
+tags:
+  - License
+  - Open Source
+---
 
 This is a simple description of popular free software license made by [Paul Miller](http://paulmillr.com/).
 
-<!--more-->
+<!-- more -->
 
 ![](open-source-licenses.png)
 

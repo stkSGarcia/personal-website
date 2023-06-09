@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Posts
+      title: Recent Posts
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -30,11 +30,20 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Recent Publications
       filters:
         folders: [publication]
     design:
       view: citation
+      columns: "2"
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders: [talk]
+    design:
+      view: card
       columns: "2"
   - block: experience
     content:
