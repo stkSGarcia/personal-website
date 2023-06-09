@@ -78,5 +78,6 @@ email: ""
 highlight_name: true
 ---
 
-Shenghui (Samuel) Gu is a Ph.D. in software engineering at Nanjing University, China. His research interests are in software engineering, particularly in AIOps, software log analytics, DevOps, as well as empirical and evidence-based software engineering.
+Shenghui (Samuel) Gu is a Ph.D. in software engineering at Nanjing University, China.
+His research interests are in software engineering, particularly in AIOps, software log analytics, DevOps, as well as empirical and evidence-based software engineering.
 {style="text-align: justify;"}
