@@ -113,7 +113,7 @@ sections:
           icon_pack: fab
         - name: SQL
           icon: database
-          icon_pack: fab
+          icon_pack: fas
         - name: Go
           icon: golang
           icon_pack: fab
@@ -140,7 +140,7 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: "https://calendly.com"
       address:
-        street: 50 Hankou Road
+        street: 50 Hankou Road, Gulou District
         city: Nanjing
         region: Jiangsu
         postcode: "210093"
