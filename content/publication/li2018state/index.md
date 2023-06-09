@@ -7,7 +7,7 @@ title: "A State Report of DevOps Tooling"
 authors:
   - Zheng Li
   - Shanshan Li
-  - Samuel
+  - Shenghui Gu
   - He Zhang
   - Tianqing (Grissom) Wang
 
