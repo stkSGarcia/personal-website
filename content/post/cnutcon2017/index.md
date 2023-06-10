@@ -1,10 +1,14 @@
-+++
-title = "智能时代的新运维「CNUTCon 2017 上海」"
-author = "Samuel Garcia"
-date = 2017-09-17T12:39:00+08:00
-lastmod = 2021-08-24T23:12:32+08:00
-tags = ["aiops", "devops"]
-+++
+---
+title: 智能时代的新运维「CNUTCon 2017 上海」
+authors:
+  - Shenghui Gu
+date: "2017-09-17T12:39:00+08:00"
+lastmod: "2021-08-24T23:12:32+08:00"
+tags:
+  - AIOps
+  - DevOps
+type: docs
+---
 
 在今年的 9 月 10 至 11 日，有幸获得导师的邀请，参加了全球运维技术大会。
 这篇博客记录了会上一些有意思的内容。
