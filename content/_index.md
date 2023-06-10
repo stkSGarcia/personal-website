@@ -41,7 +41,7 @@ sections:
     content:
       title: Recent & Upcoming Talks
       filters:
-        folders: [talk]
+        folders: [event]
     design:
       view: card
       columns: "2"
