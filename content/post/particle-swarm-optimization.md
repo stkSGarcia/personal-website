@@ -45,7 +45,7 @@ $$
 v_{id} = w \cdot v_{id} + c_1 \cdot rand() \cdot (p_{id} - x_{id}) + c_2 \cdot rand() \cdot (p_{gd} - x_{id}) \\
 x_{id} = x_{id} + v_{id}
 $$
-{{< math >}}
+{{< /math >}}
 
 其中{{< math >}}$w${{< /math >}}为惯性权重（Inertia Weight），{{< math >}}$c_1${{< /math >}}和{{< math >}}$c_2${{< /math >}}为加速常数（Acceleration Constants），rand() 为在[0,1]范围里变化的随机值。
 此外，微粒的速度{{< math >}}$V_i${{< /math >}}被一个最大速度{{< math >}}$V_{max}${{< /math >}}所限制。
