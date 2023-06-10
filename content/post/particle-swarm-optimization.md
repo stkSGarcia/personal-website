@@ -42,7 +42,8 @@ PSO 算法是基于群体的，根据对环境的适应度将群体中的个体�
 
 {{< math >}}
 $$
-v_{id} = w \cdot v_{id} + c_1 \cdot rand() \cdot (p_{id} - x_{id}) + c_2 \cdot rand() \cdot (p_{gd} - x_{id}) \\
+v_{id} = w \cdot v_{id} + c_1 \cdot rand() \cdot (p_{id} - x_{id}) + c_2 \cdot rand() \cdot (p_{gd} - x_{id})
+
 x_{id} = x_{id} + v_{id}
 $$
 {{< /math >}}
