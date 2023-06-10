@@ -1,5 +1,5 @@
 ---
-title: "A Goal-Driven Framework in Support of Knowledge Management"
+title: A Goal-Driven Framework in Support of Knowledge Management
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,10 +28,11 @@ doi: "10.1109/apsec.2017.35"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asia-Pacific Software Engineering Conference*
-publication_short: In *APSEC*
+publication: In _Asia-Pacific Software Engineering Conference_
+publication_short: In _APSEC_
 
-abstract: Knowledge management nowadays usually focuses on the choice among some models or methodologies as a whole, but not on some specific, quantitative contributions of particular goals of the organization. Such a simplification misses some important chances for knowledge integration and transformation. What's worse, this simplification depresses the motivation of team members to accumulate and use the knowledge. In this paper, we propose a knowledge management framework which features in its goal-driven philosophy to manage project development, organize the knowledge and effectively integrate the knowledge management process into the development process. This method helps software project teams comprehensively and systematically identify and track knowledge management goals as far as possible. With a common framework, an organization is able to exchange knowledge and expertise within itself, which helps to glue the company together; while at the same time ensures that knowledge is shared over time so that the company benefits from past experience. Team members come to a common understanding on how to accumulate knowledge by establishing goals and corresponding solutions to meet the goals, and this consensus and clear vision on knowledge management motivates members to create knowledge and reduce the "gulf" between knowledge creation and application. It was successfully applied in several projects of different companies. The framework helps them establish an initial knowledge and experience repository. Software engineers are able to have more information available than they could understand and apply.
+abstract: >-
+  Knowledge management nowadays usually focuses on the choice among some models or methodologies as a whole, but not on some specific, quantitative contributions of particular goals of the organization. Such a simplification misses some important chances for knowledge integration and transformation. What's worse, this simplification depresses the motivation of team members to accumulate and use the knowledge. In this paper, we propose a knowledge management framework which features in its goal-driven philosophy to manage project development, organize the knowledge and effectively integrate the knowledge management process into the development process. This method helps software project teams comprehensively and systematically identify and track knowledge management goals as far as possible. With a common framework, an organization is able to exchange knowledge and expertise within itself, which helps to glue the company together; while at the same time ensures that knowledge is shared over time so that the company benefits from past experience. Team members come to a common understanding on how to accumulate knowledge by establishing goals and corresponding solutions to meet the goals, and this consensus and clear vision on knowledge management motivates members to create knowledge and reduce the "gulf" between knowledge creation and application. It was successfully applied in several projects of different companies. The framework helps them establish an initial knowledge and experience repository. Software engineers are able to have more information available than they could understand and apply.
 
 # Summary. An optional shortened abstract.
 # summary:

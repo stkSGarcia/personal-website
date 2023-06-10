@@ -1,5 +1,5 @@
 ---
-title: "A State Report of DevOps Tooling"
+title: A State Report of DevOps Tooling
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,10 +29,11 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Software Institute, Nanjing University*"
+publication: _Software Institute, Nanjing University_
 publication_short: ""
 
-abstract: Emerging from the agile culture, DevOps extremely emphasizes automation and heavily relies on tools in practice. Given the rapidly increasing number and diversity of the tools for DevOps, systematic understanding of the-state-of-art of DevOps-friendly tools will help to improve the automation practice of DevOps. This study aims to portray a landscape for understanding the state-of-the-practice of DevOps by categorizing the supporting tools and characterizing their relationships. To help collect as much evidence as possible, we employed a Multivocal Literature Review (MLR) by conducting an adapted version of Systematic Literature Review (SLR) to identify and synthesize academic publications and performing a Gray Literature Review (GLR) for data mining in a practitioner's forum, Stack Overflow. This study is supplemented by the reports from professional organizations and the confirmed data from the official website contents of tools for the generation of the state report. On the basis of a metamodel, we present a landscape with a selective set of DevOps tools to holistically portray their characteristics and relationships, develops mappings between DevOps tools and different attributes to provide practitioners with a reference for preliminary comparison of these tools. Two representative cases were selected to elaborate how they support DevOps practices and achieve the DevOps goals. This study is able to offer a breakthrough for understanding the practical DevOps through the generated landscape, mappings and cases which jointly reports the state of DevOps tooling.
+abstract: >-
+  Emerging from the agile culture, DevOps extremely emphasizes automation and heavily relies on tools in practice. Given the rapidly increasing number and diversity of the tools for DevOps, systematic understanding of the-state-of-art of DevOps-friendly tools will help to improve the automation practice of DevOps. This study aims to portray a landscape for understanding the state-of-the-practice of DevOps by categorizing the supporting tools and characterizing their relationships. To help collect as much evidence as possible, we employed a Multivocal Literature Review (MLR) by conducting an adapted version of Systematic Literature Review (SLR) to identify and synthesize academic publications and performing a Gray Literature Review (GLR) for data mining in a practitioner's forum, Stack Overflow. This study is supplemented by the reports from professional organizations and the confirmed data from the official website contents of tools for the generation of the state report. On the basis of a metamodel, we present a landscape with a selective set of DevOps tools to holistically portray their characteristics and relationships, develops mappings between DevOps tools and different attributes to provide practitioners with a reference for preliminary comparison of these tools. Two representative cases were selected to elaborate how they support DevOps practices and achieve the DevOps goals. This study is able to offer a breakthrough for understanding the practical DevOps through the generated landscape, mappings and cases which jointly reports the state of DevOps tooling.
 
 
 # Summary. An optional shortened abstract.

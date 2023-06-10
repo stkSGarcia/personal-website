@@ -28,10 +28,11 @@ doi: "10.1109/cseet.2017.17"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Software Engineering Education and Training*
-publication_short: In *CSEE&T*
+publication: In _Conference on Software Engineering Education and Training_
+publication_short: In _CSEE&T_
 
-abstract: As an emerging approach to support fast delivery of software features with reliable quality, DevOps attracts more and more practitioners and shows the potential to become one of the mainstream approach for software development and operation. Many universities begin to offer DevOps related courses to the students majored in software engineering and computer science. However, as a critical part of a DevOps course, the project practicing using DevOps might cast big challenges for teachers, compared to traditional project practicing. For example, the more frequent than ever delivery in DevOps practicing will inevitably increase the workload vastly for teachers to conduct effective evaluation. In this paper, we introduce a web based system (*DevOpsEnvy*) to support the management and monitoring of student teams practicing DevOps. By integrating several popular open source tools, this system provides students with features such as group management, project status monitoring and student performance data analysis, etc. Meanwhile, *DevOpsEnvy* system also provides teachers with sufficient evidence to perform evaluation. Our preliminary trial in Nanjing University revealed several advantages of *DevOpsEnvy* system.
+abstract: >-
+  As an emerging approach to support fast delivery of software features with reliable quality, DevOps attracts more and more practitioners and shows the potential to become one of the mainstream approach for software development and operation. Many universities begin to offer DevOps related courses to the students majored in software engineering and computer science. However, as a critical part of a DevOps course, the project practicing using DevOps might cast big challenges for teachers, compared to traditional project practicing. For example, the more frequent than ever delivery in DevOps practicing will inevitably increase the workload vastly for teachers to conduct effective evaluation. In this paper, we introduce a web based system (_DevOpsEnvy_) to support the management and monitoring of student teams practicing DevOps. By integrating several popular open source tools, this system provides students with features such as group management, project status monitoring and student performance data analysis, etc. Meanwhile, _DevOpsEnvy_ system also provides teachers with sufficient evidence to perform evaluation. Our preliminary trial in Nanjing University revealed several advantages of _DevOpsEnvy_ system.
 
 # Summary. An optional shortened abstract.
 # summary:

@@ -60,3 +60,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+简单介绍模型的可解释性。
+
+参考的这位 UP 主的视频[【一起啃书】Interpretable Machine Learning](https://www.bilibili.com/video/BV1wF411p7HP/)，建议去看看。

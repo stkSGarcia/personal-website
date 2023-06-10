@@ -60,3 +60,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+简单介绍如何申请软件著作权。

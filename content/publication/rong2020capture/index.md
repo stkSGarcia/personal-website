@@ -1,5 +1,5 @@
 ---
-title: "Can You Capture Information As You Intend To? A Case Study on Logging Practice in Industry"
+title: Can You Capture Information As You Intend To? A Case Study on Logging Practice in Industry
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,10 +29,11 @@ doi: "10.1109/icsme46990.2020.00012"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Software Maintenance and Evolution*
-publication_short: In *ICSME*
+publication: In _International Conference on Software Maintenance and Evolution_
+publication_short: In _ICSME_
 
-abstract: "*Background:* Logs provide crucial information to understand the dynamic behavior of software systems in modern software development and maintenance. Usually, logs are produced by log statements which will be triggered and executed under certain conditions. However, current studies paid very limited attention to developers' *Intentions and Concerns (I&C)* on logging practice, leading uncertainty that whether the developers' *I&C* are properly reflected by log statements and questionable capability to capture the expected information of system behaviors in logs. *Objective:* This study aims to reveal the status of developers' *I&C* on logging practice and more importantly, how the *I&C* are properly reflected in software source code in real-world software development. *Method:* We collected evidence from two sources of a series of interviews and source code analysis which are conducted in a big-data company, followed by consolidation and analysis of the evidence. *Results:* Major gaps and inconsistencies have been identified between the developers' *I&C* and real log statements in source code. Many code snippets contained no log statements that the interviewees claimed to have inserted. *Conclusion:* Developers' original *I&C* towards logging practice are usually poorly realized, which inevitably impacted the motivation and purpose to conduct this practice."
+abstract: >-
+  _Background:_ Logs provide crucial information to understand the dynamic behavior of software systems in modern software development and maintenance. Usually, logs are produced by log statements which will be triggered and executed under certain conditions. However, current studies paid very limited attention to developers' _Intentions and Concerns (I&C)_ on logging practice, leading uncertainty that whether the developers' _I&C_ are properly reflected by log statements and questionable capability to capture the expected information of system behaviors in logs. _Objective:_ This study aims to reveal the status of developers' _I&C_ on logging practice and more importantly, how the _I&C_ are properly reflected in software source code in real-world software development. _Method:_ We collected evidence from two sources of a series of interviews and source code analysis which are conducted in a big-data company, followed by consolidation and analysis of the evidence. _Results:_ Major gaps and inconsistencies have been identified between the developers' _I&C_ and real log statements in source code. Many code snippets contained no log statements that the interviewees claimed to have inserted. _Conclusion:_ Developers' original _I&C_ towards logging practice are usually poorly realized, which inevitably impacted the motivation and purpose to conduct this practice.
 
 # Summary. An optional shortened abstract.
 # summary:

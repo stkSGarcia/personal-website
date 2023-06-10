@@ -1,5 +1,5 @@
 ---
-title: "A Process Capability Support Model for DevOps and Its Implementation"
+title: A Process Capability Support Model for DevOps and Its Implementation
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,10 +27,11 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *National Software Application Conference*
-publication_short: In *NASAC*
+publication: In _National Software Application Conference_
+publication_short: In _NASAC_
 
-abstract: As an emerging approach to support fast delivery of software features with reliable quality, DevOps attracts more and more practitioners and shows the potential to become one of the mainstream approach for software development and operation. Many universities begin to offer DevOps related courses to the students majored in software engineering and computer science. However, as a critical part of a DevOps course, the project practicing using DevOps might cast big challenges for teachers, compared to traditional project practicing. It becomes teaching obstacles to offer practicing environment, process management and evaluation approaches. This paper introduces a model--*DOPCSM* to support the management and evaluation of student teams practicing DevOps. By integrating several popular open source tools, teachers could implement the model into a support system, which provides students with features such as group management, project management and student performance data analysis, etc. Meanwhile, the support system also provides teachers with sufficient evidence to perform evaluation. Our preliminary trial in Nanjing University revealed several advantages of the *DOPCSM* model.
+abstract: >-
+  As an emerging approach to support fast delivery of software features with reliable quality, DevOps attracts more and more practitioners and shows the potential to become one of the mainstream approach for software development and operation. Many universities begin to offer DevOps related courses to the students majored in software engineering and computer science. However, as a critical part of a DevOps course, the project practicing using DevOps might cast big challenges for teachers, compared to traditional project practicing. It becomes teaching obstacles to offer practicing environment, process management and evaluation approaches. This paper introduces a model--_DOPCSM_ to support the management and evaluation of student teams practicing DevOps. By integrating several popular open source tools, teachers could implement the model into a support system, which provides students with features such as group management, project management and student performance data analysis, etc. Meanwhile, the support system also provides teachers with sufficient evidence to perform evaluation. Our preliminary trial in Nanjing University revealed several advantages of the _DOPCSM_ model.
 
 # Summary. An optional shortened abstract.
 # summary:
