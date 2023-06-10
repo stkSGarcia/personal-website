@@ -1,10 +1,12 @@
-+++
-title = "从 Jekyll 到 Hexo"
-author = "Samuel Garcia"
-date = 2018-03-02T00:20:00+08:00
-lastmod = 2021-08-24T23:12:33+08:00
-tags = ["blog"]
-+++
+---
+title: 从 Jekyll 到 Hexo
+authors:
+  - Shenghui Gu
+date: "2018-03-02T00:20:00+08:00"
+lastmod: "2021-08-24T23:12:33+08:00"
+tags:
+  - Blog
+---
 
 我之前一个版本的博客也是托管在 GitHub 的静态博客，使用的是[Jekyll](https://www.jekyll.com.cn/)。
 但是它提供的主题不是很符合我的口味，所以就去网上找了许多模板，最终使用了 Hux 的模板（[主页](http://huangxuan.me/)|[项目](https://github.com/Huxpro/huxpro.github.io)）。

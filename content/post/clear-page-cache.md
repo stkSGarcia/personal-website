@@ -1,10 +1,13 @@
-+++
-title = "Linux 下清空 Page cache"
-author = "Samuel Garcia"
-date = 2018-11-08T00:09:00+08:00
-lastmod = 2021-08-24T23:12:35+08:00
-tags = ["page-cache", "linux"]
-+++
+---
+title: Linux 下清空 Page cache
+authors:
+  - Shenghui Gu
+date: "2018-11-08T00:09:00+08:00"
+lastmod: "2021-08-24T23:12:35+08:00"
+tags:
+  - Page Cache
+  - Linux
+---
 
 使用下面这条命令：
 
@@ -12,7 +15,7 @@ tags = ["page-cache", "linux"]
 sync; echo 1 > /proc/sys/vm/drop_caches
 ```
 
-<!--more-->
+<!-- more -->
 
 **sync 命令:**
 

@@ -1,15 +1,17 @@
-+++
-title = "Scala 学习资料"
-author = "Samuel Garcia"
-date = 2018-04-15T18:13:00+08:00
-lastmod = 2021-08-26T23:43:28+08:00
-tags = ["scala"]
-+++
+---
+title: Scala 学习资料
+authors:
+  - Shenghui Gu
+date: "2018-04-15T18:13:00+08:00"
+lastmod: "2021-08-26T23:43:28+08:00"
+tags:
+  - Scala
+---
 
-记录一些 Scala 的学习资料，感谢@hongjiang_wang 的整理。
+记录一些 Scala 的学习资料，感谢 @hongjiang_wang 的整理。
 [原帖地址](http://hongjiang.info/scala/)
 
-<!--more-->
+<!-- more -->
 
 ## Akka
 

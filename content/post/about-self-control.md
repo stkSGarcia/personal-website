@@ -1,14 +1,17 @@
-+++
-title = "关于《自控力》"
-author = "Samuel Garcia"
-date = 2018-11-22T01:43:00+08:00
-lastmod = 2021-08-24T23:12:35+08:00
-tags = ["self-control", "reading"]
-+++
+---
+title: 关于《自控力》
+authors:
+  - Shenghui Gu
+date: "2018-11-22T01:43:00+08:00"
+lastmod: "2021-08-24T23:12:35+08:00"
+tags:
+  - Self-control
+  - Reading
+---
 
 读完《自控力》后在此对一些重要观点进行记录。
 
-<!--more-->
+<!-- more -->
 
 ## 第一章 我要做，我不要，我想要：什么是意志力？为什么意志力至关重要？
 

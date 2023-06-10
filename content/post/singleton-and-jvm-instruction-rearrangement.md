@@ -1,10 +1,12 @@
-+++
-title = "JVM 指令重排对双重校验锁单例模式的影响"
-author = "Samuel Garcia"
-date = 2018-10-28T18:27:00+08:00
-lastmod = 2021-08-24T23:12:35+08:00
-tags = ["java"]
-+++
+---
+title: JVM 指令重排对双重校验锁单例模式的影响
+authors:
+  - Shenghui Gu
+date: "2018-10-28T18:27:00+08:00"
+lastmod: "2021-08-24T23:12:35+08:00"
+tags:
+  - Java
+---
 
 下面的双重校验锁单例是线程安全的吗？
 
@@ -27,7 +29,7 @@ public class Singleton {
 }
 ```
 
-<!--more-->
+<!-- more -->
 
 ## JVM 内存模型
 

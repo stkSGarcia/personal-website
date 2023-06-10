@@ -1,14 +1,17 @@
-+++
-title = "通过 Java API 实现 Kafka Consumer 从最开始消费"
-author = "Samuel Garcia"
-date = 2018-03-06T22:07:00+08:00
-lastmod = 2021-08-24T23:12:33+08:00
-tags = ["kafka", "java"]
-+++
+---
+title: 通过 Java API 实现 Kafka Consumer 从最开始消费
+authors:
+  - Shenghui Gu
+date: "2018-03-06T22:07:00+08:00"
+lastmod: "2021-08-24T23:12:33+08:00"
+tags:
+  - Kafka
+  - Java
+---
 
 之前写项目的时候需要通过 Java API 实现 Consumer 每次都从最开始消费，也就是将 Kafka topic 下所有 partition 的 offset 重置到最初位置。
 
-<!--more-->
+<!-- more -->
 
 这个功能类似 shell 下的命令：
 

@@ -1,14 +1,17 @@
-+++
-title = "什么会和“Ops”碰撞出火花？"
-author = "Samuel Garcia"
-date = 2017-09-09T08:12:00+08:00
-lastmod = 2021-08-24T23:12:32+08:00
-tags = ["devops", "aiops"]
-+++
+---
+title: 什么会和“Ops”碰撞出火花？
+authors:
+  - Shenghui Gu
+date: "2017-09-09T08:12:00+08:00"
+lastmod: "2021-08-24T23:12:32+08:00"
+tags:
+  - DevOps
+  - AIOps
+---
 
 最近 AIOps 非常火，加上之前对 DevOps 做了一些研究，现在找了一些带有 Ops 的词，在此做了一些整理。
 
-<!--more-->
+<!-- more -->
 
 ## DevOps
 

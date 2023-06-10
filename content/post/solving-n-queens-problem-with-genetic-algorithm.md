@@ -1,10 +1,12 @@
-+++
-title = "用遗传算法求解 N 皇后问题"
-author = "Samuel Garcia"
-date = 2018-03-11T00:07:00+08:00
-lastmod = 2021-08-24T23:12:33+08:00
-tags = ["genetic-algorithm"]
-+++
+---
+title: 用遗传算法求解 N 皇后问题
+authors:
+  - Shenghui Gu
+date: "2018-03-11T00:07:00+08:00"
+lastmod: "2021-08-24T23:12:33+08:00"
+tags:
+  - Genetic Algorithm
+---
 
 ## N 皇后问题
 
@@ -13,7 +15,7 @@ tags = ["genetic-algorithm"]
 
 八皇后问题可以推广为更一般的 N 皇后摆放问题：这时棋盘的大小变为 `N×N` 。
 
-<!--more-->
+<!-- more -->
 
 ## 遗传算法
 

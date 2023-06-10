@@ -1,15 +1,17 @@
-+++
-title = "从 Hexo 到 Hugo"
-author = "Samuel Garcia"
-date = 2020-04-10T18:12:00+08:00
-lastmod = 2021-08-24T23:12:36+08:00
-tags = ["blog"]
-+++
+---
+title: 从 Hexo 到 Hugo
+authors:
+  - Shenghui Gu
+date: "2020-04-10T18:12:00+08:00"
+lastmod: "2021-08-24T23:12:36+08:00"
+tags:
+  - Blog
+---
 
 最近又开始折腾博客了，大概拖了有一个月了才开始记录迁移博客的感受。
 简言之，让我从 Hexo 迁移到 Hugo 最大的原因是 Emacs Org mode 下的 Hugo 插件。
 
-<!--more-->
+<!-- more -->
 
 一切的开始要从我入坑 Doom Emacs 说起。
 以前我一直使用的是 Spacemacs，我非常感谢开发者做的贡献，让我使用到了那么易用的 Emacs 编辑器。

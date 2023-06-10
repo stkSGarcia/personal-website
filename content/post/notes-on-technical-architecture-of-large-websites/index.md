@@ -1,14 +1,18 @@
-+++
-title = "大型网站技术架构读书笔记"
-author = "Samuel Garcia"
-date = 2016-07-10T14:57:00+08:00
-lastmod = 2021-08-24T23:12:32+08:00
-tags = ["architecture", "web", "reading"]
-+++
+---
+title: 大型网站技术架构读书笔记
+authors:
+  - Shenghui Gu
+date: "2016-07-10T14:57:00+08:00"
+lastmod: "2021-08-24T23:12:32+08:00"
+tags:
+  - Architecture
+  - Web
+  - Reading
+---
 
 本文为《大型网站技术架构：核心原理与案例分析》的读书笔记。
 
-<!--more-->
+<!-- more -->
 
 ## 大型网站架构模式
 

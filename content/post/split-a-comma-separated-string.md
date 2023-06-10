@@ -1,10 +1,13 @@
-+++
-title = "[Java] Splitting a comma-separated string but ignoring commas in quotes"
-author = "Samuel Garcia"
-date = 2018-03-24T21:04:00+08:00
-lastmod = 2021-08-24T23:12:34+08:00
-tags = ["regex", "java"]
-+++
+---
+title: [Java] Splitting a comma-separated string but ignoring commas in quotes
+authors:
+  - Shenghui Gu
+date: "2018-03-24T21:04:00+08:00"
+lastmod: "2021-08-24T23:12:34+08:00"
+tags:
+  - Regex
+  - Java
+---
 
 Sometimes we need to parse strings like this:
 
@@ -21,7 +24,7 @@ man
 "New York, NY, USA"
 ```
 
-<!--more-->
+<!-- more -->
 
 We can try the following code:
 
