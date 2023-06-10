@@ -61,6 +61,6 @@ tags:
 
 下图给出了不同的效度及其在理论和实证研究层面所处的位置。
 
-![](validity.png)
+{{< figure src="validity.png" theme="light" >}}
 
 > - [研究设计的关键属性](https://www.opentextbooks.org.hk/ditatopic/36007)
