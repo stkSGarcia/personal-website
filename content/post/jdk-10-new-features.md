@@ -2,8 +2,8 @@
 title: JDK 10 新特性
 authors:
   - Shenghui Gu
-date: "2018-03-24T19:27:00+08:00"
-lastmod: "2021-08-24T23:12:34+08:00"
+date: 2018-03-24T19:27:00+08:00
+lastmod: 2021-08-24T23:12:34+08:00
 tags:
   - Java
 ---

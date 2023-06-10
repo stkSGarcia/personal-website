@@ -2,8 +2,8 @@
 title: AIOps 简介
 authors:
   - Shenghui Gu
-date: "2020-06-20T21:21:00+08:00"
-lastmod: "2021-08-24T23:12:36+08:00"
+date: 2020-06-20T21:21:00+08:00
+lastmod: 2021-08-24T23:12:36+08:00
 tags:
   - AIOps
 ---

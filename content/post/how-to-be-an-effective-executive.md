@@ -2,8 +2,8 @@
 title: 如何成为卓有成效的管理者？
 authors:
   - Shenghui Gu
-date: "2020-03-08T18:39:00+08:00"
-lastmod: "2021-08-24T23:12:36+08:00"
+date: 2020-03-08T18:39:00+08:00
+lastmod: 2021-08-24T23:12:36+08:00
 tags:
   - Management
   - Reading

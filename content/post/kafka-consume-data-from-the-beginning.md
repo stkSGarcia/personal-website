@@ -2,8 +2,8 @@
 title: 通过 Java API 实现 Kafka Consumer 从最开始消费
 authors:
   - Shenghui Gu
-date: "2018-03-06T22:07:00+08:00"
-lastmod: "2021-08-24T23:12:33+08:00"
+date: 2018-03-06T22:07:00+08:00
+lastmod: 2021-08-24T23:12:33+08:00
 tags:
   - Kafka
   - Java

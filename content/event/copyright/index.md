@@ -17,8 +17,8 @@ abstract: 简单介绍如何申请软件著作权。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-03-25T10:00:00+08:00"
-date_end: "2020-03-25T11:00:00+08:00"
+date: 2020-03-25T10:00:00+08:00
+date_end: 2020-03-25T11:00:00+08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -43,7 +43,7 @@ featured: false
 #     url: https://twitter.com/
 url_code: ""
 url_pdf: ""
-url_slides: "software_copyright.pptx"
+url_slides: software_copyright.pptx
 url_video: ""
 
 # Markdown Slides (optional).

@@ -2,8 +2,8 @@
 title: Tips for conducting a Systematic Literature Review
 authors:
   - Shenghui Gu
-date: "2017-08-07T14:33:00+08:00"
-lastmod: "2021-08-24T23:12:32+08:00"
+date: 2017-08-07T14:33:00+08:00
+lastmod: 2021-08-24T23:12:32+08:00
 tags:
   - SLR
   - Research

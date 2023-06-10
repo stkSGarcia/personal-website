@@ -2,8 +2,8 @@
 title: Linux 下清空 Page cache
 authors:
   - Shenghui Gu
-date: "2018-11-08T00:09:00+08:00"
-lastmod: "2021-08-24T23:12:35+08:00"
+date: 2018-11-08T00:09:00+08:00
+lastmod: 2021-08-24T23:12:35+08:00
 tags:
   - Page Cache
   - Linux

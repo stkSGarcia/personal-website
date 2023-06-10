@@ -2,8 +2,8 @@
 title: 从 Jekyll 到 Hexo
 authors:
   - Shenghui Gu
-date: "2018-03-02T00:20:00+08:00"
-lastmod: "2021-08-24T23:12:33+08:00"
+date: 2018-03-02T00:20:00+08:00
+lastmod: 2021-08-24T23:12:33+08:00
 tags:
   - Blog
 ---

@@ -16,8 +16,8 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2021-05-01T00:00:00Z"
-doi: "10.13328/j.cnki.jos.006234"
+date: 2021-05-01T00:00:00Z
+doi: 10.13328/j.cnki.jos.006234
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

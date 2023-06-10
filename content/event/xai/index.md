@@ -17,8 +17,8 @@ abstract: 简单介绍模型的可解释性。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-16T16:00:00+08:00"
-date_end: "2022-09-16T17:00:00+08:00"
+date: 2022-09-16T16:00:00+08:00
+date_end: 2022-09-16T17:00:00+08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -43,7 +43,7 @@ featured: false
 #     url: https://twitter.com/
 url_code: ""
 url_pdf: ""
-url_slides: "explainable_ai.key"
+url_slides: explainable_ai.key
 url_video: ""
 
 # Markdown Slides (optional).

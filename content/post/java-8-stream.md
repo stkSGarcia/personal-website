@@ -2,8 +2,8 @@
 title: Java 8 Stream 语法
 authors:
   - Shenghui Gu
-date: "2018-07-14T17:53:00+08:00"
-lastmod: "2021-08-24T23:12:34+08:00"
+date: 2018-07-14T17:53:00+08:00
+lastmod: 2021-08-24T23:12:34+08:00
 tags:
   - Java
 ---

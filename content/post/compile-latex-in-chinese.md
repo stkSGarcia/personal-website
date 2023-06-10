@@ -2,8 +2,8 @@
 title: 编译中文 LaTeX
 authors:
   - Shenghui Gu
-date: "2017-09-22T09:15:00+08:00"
-lastmod: "2021-08-24T23:21:54+08:00"
+date: 2017-09-22T09:15:00+08:00
+lastmod: 2021-08-24T23:21:54+08:00
 tags:
   - LaTeX
 ---

@@ -2,8 +2,8 @@
 title: 用遗传算法求解 N 皇后问题
 authors:
   - Shenghui Gu
-date: "2018-03-11T00:07:00+08:00"
-lastmod: "2021-08-24T23:12:33+08:00"
+date: 2018-03-11T00:07:00+08:00
+lastmod: 2021-08-24T23:12:33+08:00
 tags:
   - Genetic Algorithm
 ---

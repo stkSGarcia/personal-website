@@ -2,8 +2,8 @@
 title: Scala 学习资料
 authors:
   - Shenghui Gu
-date: "2018-04-15T18:13:00+08:00"
-lastmod: "2021-08-26T23:43:28+08:00"
+date: 2018-04-15T18:13:00+08:00
+lastmod: 2021-08-26T23:43:28+08:00
 tags:
   - Scala
 ---

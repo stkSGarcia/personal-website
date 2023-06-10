@@ -2,8 +2,8 @@
 title: How to choose an open source license?
 authors:
   - Shenghui Gu
-date: "2017-09-27T13:45:00+08:00"
-lastmod: "2021-08-24T23:12:33+08:00"
+date: 2017-09-27T13:45:00+08:00
+lastmod: 2021-08-24T23:12:33+08:00
 tags:
   - License
   - Copyright

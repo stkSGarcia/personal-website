@@ -2,8 +2,8 @@
 title: 《Chris Richardson谈微服务软件架构设计》笔记
 authors:
   - Shenghui Gu
-date: "2016-12-10T16:47:00+08:00"
-lastmod: "2021-08-24T23:12:32+08:00"
+date: 2016-12-10T16:47:00+08:00
+lastmod: 2021-08-24T23:12:32+08:00
 tags:
   - Microservices
   - Architecture

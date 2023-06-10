@@ -18,8 +18,8 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2022-06-01T00:00:00Z"
-doi: "10.1109/TDSC.2022.3181143"
+date: 2022-06-01T00:00:00Z
+doi: 10.1109/TDSC.2022.3181143
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

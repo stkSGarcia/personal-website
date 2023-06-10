@@ -17,8 +17,8 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2023-10-28T00:00:00Z"
-doi: "10.1145/3361242.3361261"
+date: 2023-10-28T00:00:00Z
+doi: 10.1145/3361242.3361261
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -54,7 +54,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: "zhu2019jllar_presentation.pptx"
+url_slides: zhu2019jllar_presentation.pptx
 url_source: ""
 url_video: ""
 

@@ -2,8 +2,8 @@
 title: 启发式算法概述
 authors:
   - Shenghui Gu
-date: "2018-10-28T15:42:00+08:00"
-lastmod: "2021-08-24T23:12:34+08:00"
+date: 2018-10-28T15:42:00+08:00
+lastmod: 2021-08-24T23:12:34+08:00
 tags:
   - Heuristic Algorithm
 ---

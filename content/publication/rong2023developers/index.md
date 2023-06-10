@@ -16,7 +16,7 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2023-05-01T00:00:00Z"
+date: 2023-05-01T00:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -53,7 +53,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: "rong2023developers_presentation.pptx"
+url_slides: rong2023developers_presentation.pptx
 url_source: ""
 url_video: ""
 

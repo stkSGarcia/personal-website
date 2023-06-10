@@ -16,8 +16,8 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2022-09-28T00:00:00Z"
-doi: "10.1109/icsme46990.2020.00012"
+date: 2022-09-28T00:00:00Z
+doi: 10.1109/icsme46990.2020.00012
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

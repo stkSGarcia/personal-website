@@ -2,8 +2,8 @@
 title: 从 Hexo 到 Hugo
 authors:
   - Shenghui Gu
-date: "2020-04-10T18:12:00+08:00"
-lastmod: "2021-08-24T23:12:36+08:00"
+date: 2020-04-10T18:12:00+08:00
+lastmod: 2021-08-24T23:12:36+08:00
 tags:
   - Blog
 ---

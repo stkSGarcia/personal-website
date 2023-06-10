@@ -2,8 +2,8 @@
 title: 关于《自控力》
 authors:
   - Shenghui Gu
-date: "2018-11-22T01:43:00+08:00"
-lastmod: "2021-08-24T23:12:35+08:00"
+date: 2018-11-22T01:43:00+08:00
+lastmod: 2021-08-24T23:12:35+08:00
 tags:
   - Self-control
   - Reading

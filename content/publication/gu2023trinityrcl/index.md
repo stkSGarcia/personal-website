@@ -20,8 +20,8 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2023-05-01T00:00:00Z"
-doi: "10.1109/tse.2023.3241299"
+date: 2023-05-01T00:00:00Z
+doi: 10.1109/tse.2023.3241299
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

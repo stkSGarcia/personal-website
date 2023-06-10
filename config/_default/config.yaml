@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Gibberish # Website name
-baseURL: "https://samuel-garcia.netlify.app" # Website URL
+baseURL: https://samuel-garcia.netlify.app # Website URL
 
 ############################
 ## LANGUAGE
@@ -38,10 +38,10 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: "/talk/:slug/"
-  tags: "/tag/:slug/"
-  categories: "/category/:slug/"
-  publication_types: "/publication-type/:slug/"
+  event: /talk/:slug/
+  tags: /tag/:slug/
+  categories: /category/:slug/
+  publication_types: /publication-type/:slug/
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -58,10 +58,6 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
-    ordered: false
 related:
   threshold: 80
   includeNewer: true

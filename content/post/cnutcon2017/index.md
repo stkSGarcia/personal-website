@@ -2,8 +2,8 @@
 title: 智能时代的新运维「CNUTCon 2017 上海」
 authors:
   - Shenghui Gu
-date: "2017-09-17T12:39:00+08:00"
-lastmod: "2021-08-24T23:12:32+08:00"
+date: 2017-09-17T12:39:00+08:00
+lastmod: 2021-08-24T23:12:32+08:00
 tags:
   - AIOps
   - DevOps

@@ -15,8 +15,8 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2017-12-04T00:00:00Z"
-doi: "10.1109/apsec.2017.61"
+date: 2017-12-04T00:00:00Z
+doi: 10.1109/apsec.2017.61
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

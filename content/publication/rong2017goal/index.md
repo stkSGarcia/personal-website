@@ -15,8 +15,8 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2017-12-04T00:00:00Z"
-doi: "10.1109/apsec.2017.35"
+date: 2017-12-04T00:00:00Z
+doi: 10.1109/apsec.2017.35
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -52,7 +52,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: "rong2017goal_presentation.pptx"
+url_slides: rong2017goal_presentation.pptx
 url_source: ""
 url_video: ""
 

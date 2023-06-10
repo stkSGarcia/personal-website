@@ -14,7 +14,7 @@ authors:
 #   - "Equal contribution"
 #   - "Equal contribution"
 
-date: "2017-11-03T00:00:00Z"
+date: 2017-11-03T00:00:00Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -51,7 +51,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: "gu2017process_presentation.pptx"
+url_slides: gu2017process_presentation.pptx
 url_source: ""
 url_video: ""
 
