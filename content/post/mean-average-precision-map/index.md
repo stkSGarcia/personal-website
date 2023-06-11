@@ -1,7 +1,7 @@
 ---
 title: Mean Average Precision (MAP)
 date: 2023-06-10T12:39:13.875Z
-draft: false
+draft: true
 authors:
   - Shenghui Gu
 tags:
